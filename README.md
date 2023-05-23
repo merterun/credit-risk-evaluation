@@ -1,1 +1,1 @@
-
+In this project, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of ```Logistic Regression``` and ```Decision Tree``` models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.
